@@ -1,0 +1,45 @@
+div{
+    border-radius: 15px;
+}
+.para1{
+    padding: 15px;
+}
+img{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.topHeading{
+    background-color: lightblue;
+    color: darkblue;
+    font-size: 22px;
+    text-align: center;
+    padding: 14px 16px;
+}
+th{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.contact{
+    background-color: darkblue;
+    padding: 15px;
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 8px 0;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbg{
+    background-color: darkgreen;
+}
+.footer-hr{
+    border: 1px solid white;
+}
